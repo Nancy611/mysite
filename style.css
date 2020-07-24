@@ -68,7 +68,7 @@ h4{
 }                 ********/ /* playing with positioning */
 .profile{
   width:40%
-    borderradius :100%;
+    border-radius:100%;
 }
 p {
   line-height: 2;
